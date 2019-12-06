@@ -13,6 +13,52 @@
   }
 }
 
+.sign-up-div {
+  position: relative;
+  right: -38%;
+}
+
+.sign-up-text {
+  position: relative;
+  right: -30px;
+}
+
+.github-img {
+  width:10%;
+  height: 10%;
+}
+
+.me-img {
+  position: relative;
+  right: -39%;
+  top: 70px;
+}
+
+.button-link {
+  width: 10%;
+  position: absolute;
+  right: 45%;
+  bottom: 200px;
+}
+
+.resource-links {
+  position: relative;
+  right: -420px;
+  top: 100px;
+}
+
+#yellow-background {
+  position: absolute;
+  height: 57%;
+  width: 100%;
+}
+
+.hamster-dance {
+  position: absolute;
+  top: 130px;
+  left: 60px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +82,8 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  text-align: center;
+}
+
